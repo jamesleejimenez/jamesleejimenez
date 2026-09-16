@@ -8,13 +8,6 @@ Based in New Jersey. Open to NYC and remote.
 
 ---
 
-### What's here
-
-| Repository | What it is |
-| --- | --- |
-| [llm-evaluation-toolkit](https://github.com/jamesleejimenez/llm-evaluation-toolkit) | Rubrics, report templates, and a scoring script for keeping evaluations consistent across runs and reviewers. |
-| [prompt-library](https://github.com/jamesleejimenez/prompt-library) | Production prompts for customer success, operations, hiring, and research, each with inputs, output shape, and known failure modes. |
-
 ### What I work on
 
 - **Evaluation design.** Scenario building, answer keys, scored rubrics, trajectory review, reviewer calibration.
